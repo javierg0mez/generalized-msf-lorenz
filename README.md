@@ -19,10 +19,7 @@ at the **Ibero-American School on Networks and Complex Systems (ENREDANDO 2026)*
 Carlos Javier Gomez  
 Marcus Aloizio Martinez de Aguiar
 
-## Related publication
+## References
 
 C.J. Gomez and M.A.M. Aguiar, *Revista Brasileira de Ensino de Física* **48**, e20250471 (2026).
-
-The classical MSF formalism follows:
-
 L.M. Pecora and T.L. Carroll, *Physical Review Letters* **80**, 2109 (1998).
