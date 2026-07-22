@@ -21,8 +21,8 @@ Marcus Aloizio Martinez de Aguiar
 
 ## Related publication
 
-C.J. Gomez and M.A.M. Aguiar, *A Generalization of the Master Stability Function for More General Diffusive Couplings* (2026).
+C.J. Gomez and M.A.M. Aguiar, *Revista Brasileira de Ensino de Física* **48**, e20250471 (2026).
 
 The classical MSF formalism follows:
 
-L.M. Pecora and T.L. Carroll, *Master Stability Functions for Synchronized Coupled Systems*, Phys. Rev. Lett. **80**, 2109 (1998).
+L.M. Pecora and T.L. Carroll, *Physical Review Letters* **80**, 2109 (1998).
