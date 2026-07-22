@@ -4,9 +4,9 @@ This repository contains the numerical implementation accompanying the work on a
 
 The results were presented in the poster
 
-> **A Generalization of the Master Stability Function for More General Diffusive Couplings**
+> **Uma generalização da Master Stability Function para acoplamentos difusivos mais gerais**
 
-at the **Ibero-American School on Networks and Complex Systems (ENREDANDO 2026)**, Viçosa, Minas Gerais, Brazil.
+at the **Escola Ibero-Americana de Redes e Sistemas Complexos (ENREDANDO 2026)**, Viçosa, Minas Gerais, Brazil.
 
 ## Contents
 
@@ -22,4 +22,5 @@ Marcus Aloizio Martinez de Aguiar
 ## References
 
 C.J. Gomez and M.A.M. Aguiar, *Revista Brasileira de Ensino de Física* **48**, e20250471 (2026).
+
 L.M. Pecora and T.L. Carroll, *Physical Review Letters* **80**, 2109 (1998).
